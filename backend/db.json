@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Notebook 2",
+      "price": 300.49
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 7
+    },
+    {
+      "name": "asd",
+      "price": "123",
+      "id": 8
+    },
+    {
+      "name": "fsdaf",
+      "price": "123",
+      "id": 9
+    },
+    {
+      "name": "terws",
+      "price": "123",
+      "id": 10
+    }
+  ]
+}
